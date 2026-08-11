@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yutao (Jacob) He** and I am a first-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/). My research focuses on AI intimacy, loneliness, and aging. Specifically, I study two related areas: first, how Social AI (SAI), including social robots such as PARO, can improve the well-being of older adults and help alleviate loneliness; and second, how people develop intimate and romantic relationships with virtual AI companions such as Replika. Before starting my PhD, I completed my B.A. in Philosophy at UCLA. Go Bruins! 
+My name is **Yutao (Jacob) He** and I am a first-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and[**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). My research focuses on AI intimacy, loneliness, and aging. Specifically, I study two related areas: first, how Social AI (SAI), including social robots such as PARO, can improve the well-being of older adults and help alleviate loneliness; and second, how people develop intimate and romantic relationships with virtual AI companions such as Replika. Before starting my PhD, I completed my B.A. in Philosophy at UCLA. Go Bruins! 
 
-I have joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, working on multi-task large-scale MLLM joint mid-training. Previously, I have interned at *Tencent Hunyuan*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
+I have joined **HKBU @Department of Sociology** as a first year PhD student in August 2025 in *Hong Kong*, working on a scoping review with my supervisors on how SAI can alleviate loneliness for older adults. During my first year, I have participated in conferences for *Hong Kong Sociological Association (HKSA) 26th Annual Conference*, *International Doctoral Symposium 2026, Global Perspectives on Social Problems, Policy, and Practice*.  
 
 <span style="color: #ff3a85;">I am seeking potential coauthors who share my interests in intimate AI and Social AI applications for older adults. Feel free to reach out!</span>
 
