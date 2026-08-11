@@ -25,8 +25,8 @@ author:
   avatar           : "profile.JPG"
   name             : "Yutao (Jacob) He"
   pronouns         : "he/him"  
-  bio              : "PhD Student in Sociology at HKBU, advised by Professor Roger Patulny. My research focuses on AI intimacy, Loneliness, and Aging."
-  location         : "Hong Kong, HKSAR"
+  bio              : "PhD Student in Sociology at HKBU, advised by Professor Roger Patulny. My research focuses on AI intimacy, Loneliness, Social Isolation, and Aging."
+  location         : "Hong Kong"
   employer         : "HKBU"
   uri              : # URL
   email            : "25481509@life.hkbu.edu.hk" 
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=hZPIICQAAAAJ&hl=en"
+  googlescholar    : "https://socweb.hkbu.edu.hk/"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/jacob-he-ucla/
+  linkedin         : "https://www.linkedin.com/in/jacob-he-ucla/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
