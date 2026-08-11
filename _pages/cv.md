@@ -43,20 +43,18 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 202
     - Manager: [Xiulian Peng](https://www.microsoft.com/en-us/research/people/xipe/)
 
 # Teaching
-* Teaching Assistant, UCLA CS 263, Natural Language Processing: Spring 2023, Spring 2024
-* Teaching Assistant, UCLA CS 31, Introduction to Computer Science, Winter 2025
-* Teaching Assistant, UCL CS 35L, Software Construction, Spring 2025
+* Teaching Assistant, HKBU SOCI 2005, Qualitative Methods of Social Research, Spring 2026
+* Teaching Assistant, HKBU SOCI 1005, Invitation to Sociology: Fall 2025, Spring 2026, Fall 2026
+* Teaching Assistant, HKBU SOCI 3035, Sex, Gender and Society, Fall 2025
 
-# Professional Services 
-* Program Committee/Reviewer
-  * ACL 2023
-  * EMNLP 2023
-  * ACL ARR: 2023, 2024, 2025
-  * ICLR: 2025, 2026
-  * NeurIPS: 2025
-  * CVPR: 2026
-* Program Chair: NAACL TrustNLP 2024, 2025
+# Departmental Contributions
+* Hosting Workshop for SOCI 2005
+  * Led 2 hours of weekly workshops across two SOCI 2005 tutorial sessions, coordinating interviews and overseeing teaching activities for 82 students
+* Public Speaking
+  * MC, International Doctoral Symposium 2026
+  * MC, AESC HK Green Energy Week Forum
+* Field Trip Coach:
+  * Led and supervised undergraduate students during a field trip to HKFYG Organic Farm (香港青年协会赛马会有机农庄) on November 1, 2025
 
 # Awards
-* Amazon AI Fellowship, 2025
-* Best Short Paper, Naacl TrustNLP 2024
+* Three-Minute Presentation Finalist, _awarded HKD 1,500_, Spring 2026
