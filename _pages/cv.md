@@ -16,10 +16,9 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 202
     - Ph.D. Student in Computer Science<br/>
     - Period of Study: September 2022 - present <br/>
 
-* <span style="color:black; font-size:15px"><b><a href="https://ww3.math.ucla.edu/" target="_blank"><font color="brown" size="4">University of California, Los Angeles</font></a></b></span><br/>
-    - Bachelor of Science (B.Sc.) in Applied Mathematics
-    - Double Major: Bachelor of Art (B.A.) in Economics
-    - Period of Study: September 2018 - March 2022 <br/>
+* <span style="color:black; font-size:15px"><b><a href="https://philosophy.ucla.edu/" target="_blank"><font color="brown" size="4">University of California, Los Angeles</font></a></b></span><br/>
+    - Bachelor of Arts (B.A.) in Philosophy
+    - Period of Study: September 2021 - March 2023 <br/>
 
 * <span style="color:black; font-size:15px"><b><a href="https://www.sfls.cn/" target="_blank"><font color="brown" size="4">Shanghai Foreign Language School (SFLS)</font></a></b></span><br/>
     - Period of Study: September 2011 - July 2015 <br/>
