@@ -31,7 +31,7 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 202
 
 # Teaching
 * Teaching Assistant, HKBU SOCI 2005, Qualitative Methods of Social Research, Spring 2026
-* Teaching Assistant, HKBU SOCI 1005, Invitation to Sociology: Fall 2025, Spring 2026, (upcoming) Fall 2026
+* Teaching Assistant, HKBU SOCI 1005, Invitation to Sociology: Fall 2025, Spring 2026, and Fall 2026 (upcoming)
 * Teaching Assistant, HKBU SOCI 3035, Sex, Gender and Society, Fall 2025
 
 # Departmental Contributions
