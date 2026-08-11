@@ -19,7 +19,7 @@ News
 * [2026/07] I gave a talk on **Reflective & Bias-Aware Knowledge Control** at the **ACL 2026 Tutorial: Knowledge Control for Responsible Generative AI**, where I highlight agentic mitigation and our related recent work as a promising research direction in trustworthy AI.
 * [2026/06] I joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern at Menlo Park, CA. I will be working on multi-task Multimodal LLM mid-training. Excited to explore the Bay!
 * [2026/04] 2 papers accepted to **ACL 2026 Main conference** and 1 accepted to Findings 🎉! More details coming soon. See you in San Diego 😊
-* [2026/03] [MotionEdit](https://arxiv.org/abs/2512.10284) is accepted to **CVPR 2026** 🎉! See you in Denver 😄
+* [2026/03] [Symposium](https://dearhub.hkbu.edu.hk/dear/index.php/events/#finale) I am excited to join **From Digital Ethics to Resilience: Navigating Responsibility and AI Literacy in Higher Education and Beyond** as a student panelist for a roundtable discussion led by Prof. Mark Pegrum 🎉! See y'all at the roundtable 😄
 * [2025/12] 📢 ⭐️ New Work on **Motion Image Editing** with *Tencent Hunyuan* released! Check it out: [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284) . Also check out more demos on our [Project Page](https://motion-edit.github.io/)!
 * [2025/09] I am humbled to be awarded the 2025 [Amazon AI Fellowship](https://samueli.ucla.edu/15-ucla-engineering-doctoral-students-named-amazon-ai-fellows/) 🎉!
 * [2025/08] 3 papers on *LLM Unlearning* and *Fairness* accepted to **EMNLP 2025 Findings** 🎉! Check them out:
