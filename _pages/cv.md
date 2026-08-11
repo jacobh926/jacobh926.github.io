@@ -22,25 +22,13 @@ Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 202
     - Period of Study: September 2018 - March 2022 <br/>
 
 * <span style="color:black; font-size:15px"><b><a href="https://www.sfls.cn/" target="_blank"><font color="brown" size="4">Shanghai Foreign Language School (SFLS)</font></a></b></span><br/>
-    - Period of Study: September 2011 - July 2018 <br/>
+    - Period of Study: September 2011 - July 2015 <br/>
 
 # Internship
-* <span style="color:black; font-size:15px"><b><a href="https://ai.meta.com/" target="_blank"><font color="brown" size="4">FAIR @Meta Superintelligence Labs</font></a></b></span> (June 2026 – Current)
-    - Research Scientist Intern
-    - Mentors: [Apoorv Vyas](https://apoorv2904.github.io/), [Daniel Bolya](https://dbolya.com/), [Chaitanya K. Ryali](https://scholar.google.com/citations?user=4LWx24UAAAAJ&hl=en) and [Haitham Khedr](https://hkhedr.com/)
-    - Manager: [Christoph Feichtenhofer](https://feichtenhofer.github.io/)
-* <span style="color:black; font-size:15px"><b><a href="https://ai.tencent.com/ailab/en/about/" target="_blank"><font color="brown" size="4">Tencent AI Lab</font></a></b></span> (June 2025 – December 2025)
+* <span style="color:black; font-size:15px"><b><a href="https://w.mgtv.com/?lang=en" target="_blank"><font color="brown" size="4">Mango TV</font></a></b></span> (June 2023 – September 2023)
     - Research Intern
-    - Mentors: [Lei Ke](https://www.kelei.site/) and [Wenhao Yu](https://wyu97.github.io/)
-    - Manager: [Dong Yu]([https://hongweiw.net/](https://sites.google.com/view/dongyu888/))
-* <span style="color:black; font-size:15px"><b><a href="https://www.amazon.science/" target="_blank"><font color="brown" size="4">Amazon AGI</font></a></b></span> (June 2024 – November 2024)
-    - Applied Scientist Intern, team <a href="https://labs.amazon.science/" target="_blank">Amazon AGI</a>
-    - Mentors: [Anil Ramakrishna](https://anilkramakrishna.github.io/)
-    - Manager: [Rahul Gupta](https://guptarah.github.io/)
-* <span style="color:black; font-size:15px"><b><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank"><font color="brown" size="4">Microsoft Research Asia</font></a></b></span> (May 2022 – September 2022)
-    - Research Intern
-    - Mentors: [Yuan Zhou](https://ieeexplore.ieee.org/author/37089364856)
-    - Manager: [Xiulian Peng](https://www.microsoft.com/en-us/research/people/xipe/)
+    - Mentors: Zhuhui Liu
+    - Manager: Mengdie Liu
 
 # Teaching
 * Teaching Assistant, HKBU SOCI 2005, Qualitative Methods of Social Research, Spring 2026
