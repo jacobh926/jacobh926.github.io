@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yutao (Jacob) He** and I am a first-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/). My research focuses on AI Intimacy,loneliness and Aging: specifically, I have worked on improving the controllability, fairness, and factuality in LLMs, MLLMs, and image generation models. Before coming to HKBU, I completed my B.A. in Philosophy at UCLA. Go Bruins! 
+My name is **Yutao (Jacob) He** and I am a first-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/). My research focuses on AI intimacy, loneliness, and aging. Specifically, I study two related areas: first, how Social AI (SAI), including social robots such as PARO, can improve the well-being of older adults and help alleviate loneliness; and second, how people develop intimate and romantic relationships with virtual AI companions such as Replika. Before starting my PhD, I completed my B.A. in Philosophy at UCLA. Go Bruins! 
 
 I have joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, working on multi-task large-scale MLLM joint mid-training. Previously, I have interned at *Tencent Hunyuan*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
 
-<span style="color: #ff3a85;">I am actively looking for full-time opportunities starting EOY 2026 or 2027 spring. Feel free to reach out!</span>
+<span style="color: #ff3a85;">I am seeking potential coauthors who share my interests in intimate AI and Social AI applications for older adults. Feel free to reach out!</span>
 
 News
 ======
-* [2026/07] I served as a Program Chair for the second time at the **ACL 2026 TrustNLP Workshop**. Grateful for all the support!
+* [2025/07] I served as a Program Chair for the second time at the **ACL 2026 TrustNLP Workshop**. Grateful for all the support!
 * [2026/07] I gave a talk on **Reflective & Bias-Aware Knowledge Control** at the **ACL 2026 Tutorial: Knowledge Control for Responsible Generative AI**, where I highlight agentic mitigation and our related recent work as a promising research direction in trustworthy AI.
 * [2026/06] I joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern at Menlo Park, CA. I will be working on multi-task Multimodal LLM mid-training. Excited to explore the Bay!
 * [2026/04] 2 papers accepted to **ACL 2026 Main conference** and 1 accepted to Findings 🎉! More details coming soon. See you in San Diego 😊
-* [2026/02] [MotionEdit](https://arxiv.org/abs/2512.10284) is accepted to **CVPR 2026** 🎉! See you in Denver 😄
+* [2026/03] [MotionEdit](https://arxiv.org/abs/2512.10284) is accepted to **CVPR 2026** 🎉! See you in Denver 😄
 * [2025/12] 📢 ⭐️ New Work on **Motion Image Editing** with *Tencent Hunyuan* released! Check it out: [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284) . Also check out more demos on our [Project Page](https://motion-edit.github.io/)!
 * [2025/09] I am humbled to be awarded the 2025 [Amazon AI Fellowship](https://samueli.ucla.edu/15-ucla-engineering-doctoral-students-named-amazon-ai-fellows/) 🎉!
 * [2025/08] 3 papers on *LLM Unlearning* and *Fairness* accepted to **EMNLP 2025 Findings** 🎉! Check them out:
