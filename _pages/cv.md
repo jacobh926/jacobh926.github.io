@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 2026/07).
+Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 2026/08).
 
 # Education
-* <span style="color:black; font-size:15px"><b><a href="https://cs.ucla.edu" target="_blank"><font color="brown" size="4">University of California, Los Angeles</font></a></b></span><br/>
-    - Ph.D. Student in Computer Science<br/>
-    - Period of Study: September 2022 - present <br/>
+* <span style="color:black; font-size:15px"><b><a href="https://cs.ucla.edu" target="_blank"><font color="brown" size="4">Hong Kong Baptist University</font></a></b></span><br/>
+    - Ph.D. Student in Sociology<br/>
+    - Period of Study: September 2025 - present <br/>
 
 * <span style="color:black; font-size:15px"><b><a href="https://philosophy.ucla.edu/" target="_blank"><font color="brown" size="4">University of California, Los Angeles</font></a></b></span><br/>
     - Bachelor of Arts (B.A.) in Philosophy
