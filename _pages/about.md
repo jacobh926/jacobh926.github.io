@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yixin (Elaine) Wan** and I am a final-year PhD candidate in Computer Science at UCLA. I am fortunate to be advised by Professor [**Kai-Wei Chang**](https://web.cs.ucla.edu/~kwchang/) and be a member of the [UCLANLP](https://web.cs.ucla.edu/~kwchang/members/) research group. My research focuses on building trustworthy multimodal understanding and generative models: specifically, I have worked on improving the controllability, fairness, and factuality in LLMs, MLLMs, and image generation models. I completed my B.S. in Applied Mathematics (double major in Economics) also at UCLA. Go Bruins! 
+My name is **Yutao (Jacob) He** and I am a first-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/). My research focuses on AI Intimacy,loneliness and Aging: specifically, I have worked on improving the controllability, fairness, and factuality in LLMs, MLLMs, and image generation models. Before coming to HKBU, I completed my B.A. in Philosophy at UCLA. Go Bruins! 
 
 I have joined **FAIR @Meta Superintelligence Labs** as a Research Scientist Intern in June 2026 in *Menlo Park, CA*, working on multi-task large-scale MLLM joint mid-training. Previously, I have interned at *Tencent Hunyuan*, *Amazon AGI*, and *Microsoft Research Asia (MSRA)*.  
 
