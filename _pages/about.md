@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yutao (Jacob) He** and I am a second-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and Professor [**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). I received my B.A. in Philosophy from UCLA and my M.A. in International Affairs from HKU.
+My name is **Yutao (Jacob) He** and I am a second-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Vincent Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and Professor [**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). I received my B.A. in Philosophy from UCLA and my M.A. in International Affairs from HKU.
 
 I have joined **HKBU's Department of Sociology** as a PhD student in August 2025, where I began working with my supervisors on Social AI and loneliness among older adults. My first scoping review paper is currently under review, and I have presented my research at the [HKSA 26th Annual Conference](https://socweb.hkbu.edu.hk/about/news-and-events/hong-kong-sociological-association-26th-annual-conference-on-6-december-2025-at-hkbu.html) and the [International Doctoral Symposium 2026](https://scholars.hkbu.edu.hk/en/publications/elder-ai-companionship-in-chinas-rapidly-aging-society-preliminar-2/). 
 
