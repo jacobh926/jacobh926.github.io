@@ -28,7 +28,7 @@ Please find my latest CV [here](/files/Yutao He_resume_202607.pdf) (updated 2026
     - Major in Philosophy
     - Period of Study: September 2019 - March 2021 <br/>
 
-* <span style="color:black; font-size:15px"><b><a href="https://www.libertychristian.com/" target="_blank"><font color="brown" size="4">Liberty Christian School (LCS)</font></a></b></span><br/>
+* <span style="color:black; font-size:15px"><b><a href="https://www.libertychristian.com/" target="_blank"><font color="brown" size="4">Liberty Christian School (LCS), Dallas, Texas</font></a></b></span><br/>
     - Period of Study: September 2015 - July 2019 <br/>
     - Boys Varsity Soccer Captain
 
@@ -55,4 +55,4 @@ Please find my latest CV [here](/files/Yutao He_resume_202607.pdf) (updated 2026
   * Led and supervised undergraduate students for a field trip to [HKFYG Organic Farm](https://www.organicfarm.hk/) (香港青年协会赛马会有机农庄) on November 1, 2025
 
 # Awards
-* Three-Minute Thesis Presentation Finalist, _awarded HKD 1,500_, Spring 2026
+* [HKBU 7th Three-Minute Thesis Presentation](https://lc.hkbu.edu.hk/main/3mt/) Finalist, _awarded HKD 1,500_, Spring 2026
