@@ -18,6 +18,6 @@ I have joined **HKBU's Department of Sociology** as a PhD student in August 2025
 News
 ======
 * [2026/07] I joined the [AI Anthropology Workshop (AI人类学研修班) at Sun Yat-sen University](https://mp.weixin.qq.com/s/uZgovPEVIdy0LijFjtmMEg), led by Professor[**Jin Jun (景军)**](https://www.soc.tsinghua.edu.cn/info/1231/2065.htm). Looking forward to learning from and connecting with scholars working on AI and anthropology! 🎉
-* [2026/07] I am grateful to have participated in the [QualiTaTi Summer School 2026: Qualitative Research in the AI Era](https://qualitati.com/academy/zh), taught online by Professor. [**Shubin Yu**] (https://shubinyu.com/) from July 9–13, and received an A for the course!
+* [2026/07] I am grateful to have participated in the [QualiTaTi Summer School 2026: Qualitative Research in the AI Era](https://qualitati.com/academy/zh), taught online by Professor. [**Shubin Yu**](https://shubinyu.com/) from July 9–13, and received an A for the course!
 * [2026/03] [Symposium](https://dearhub.hkbu.edu.hk/dear/index.php/events/#finale) I am excited to join **From Digital Ethics to Resilience: Navigating Responsibility and AI Literacy in Higher Education and Beyond** as a student panelist for a roundtable discussion led by Professor Mark Pegrum 🎉! See you all at the roundtable 😄
 * 
