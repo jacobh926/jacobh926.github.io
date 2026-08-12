@@ -30,6 +30,7 @@ Please find my latest CV [here](/files/Yutao He_resume_202607.pdf) (updated 2026
 
 * <span style="color:black; font-size:15px"><b><a href="https://www.libertychristian.com/" target="_blank"><font color="brown" size="4">Liberty Christian School (LCS)</font></a></b></span><br/>
     - Period of Study: September 2015 - July 2019 <br/>
+    - Boys Varsity Soccer Captain
 
 * <span style="color:black; font-size:15px"><b><a href="https://www.sfls.cn/" target="_blank"><font color="brown" size="4">Shanghai Foreign Language School (SFLS)</font></a></b></span><br/>
     - Period of Study: September 2011 - July 2015 <br/>
