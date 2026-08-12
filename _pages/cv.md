@@ -12,22 +12,33 @@ redirect_from:
 Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 2026/08).
 
 # Education
-* <span style="color:black; font-size:15px"><b><a href="https://cs.ucla.edu" target="_blank"><font color="brown" size="4">Hong Kong Baptist University</font></a></b></span><br/>
+* <span style="color:black; font-size:15px"><b><a href="https://socweb.hkbu.edu.hk/" target="_blank"><font color="brown" size="4">Hong Kong Baptist University</font></a></b></span><br/>
     - Ph.D. Student in Sociology<br/>
     - Period of Study: September 2025 - present <br/>
+
+* <span style="color:black; font-size:15px"><b><a href="https://ppa.hku.hk/mipa/" target="_blank"><font color="brown" size="4">The University of Hong Kong</font></a></b></span><br/>
+    - Master Degree in MIPA
+    - Period of Study: August 2023 - May 2024 <br/>
 
 * <span style="color:black; font-size:15px"><b><a href="https://philosophy.ucla.edu/" target="_blank"><font color="brown" size="4">University of California, Los Angeles</font></a></b></span><br/>
     - Bachelor of Arts (B.A.) in Philosophy
     - Period of Study: September 2021 - March 2023 <br/>
 
+* <span style="color:black; font-size:15px"><b><a href="https://www.philosophy.ucsb.edu/" target="_blank"><font color="brown" size="4">University of California, Santa Barbara</font></a></b></span><br/>
+    - Major in Philosophy
+    - Period of Study: September 2019 - March 2021 <br/>
+
+* <span style="color:black; font-size:15px"><b><a href="https://www.libertychristian.com/" target="_blank"><font color="brown" size="4">Liberty Christian School (LCS)</font></a></b></span><br/>
+    - Period of Study: September 2015 - July 2019 <br/>
+
 * <span style="color:black; font-size:15px"><b><a href="https://www.sfls.cn/" target="_blank"><font color="brown" size="4">Shanghai Foreign Language School (SFLS)</font></a></b></span><br/>
     - Period of Study: September 2011 - July 2015 <br/>
 
 # Internship
+
 * <span style="color:black; font-size:15px"><b><a href="https://w.mgtv.com/?lang=en" target="_blank"><font color="brown" size="4">Mango TV</font></a></b></span> (June 2023 – September 2023)
     - Research Intern
-    - Mentors: Zhuhui Liu
-    - Manager: Mengdie Liu
+    - Manager: Mengdie Liu and Zhuhui Liu
 
 # Teaching
 * Teaching Assistant, HKBU SOCI 2005, Qualitative Methods of Social Research, Spring 2026
