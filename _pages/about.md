@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yutao (Jacob) He** and I am a first-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and [**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). I received my B.A. in Philosophy from UCLA and my M.A. in International Affairs from the University of Hong Kong (HKU).
+My name is **Yutao (Jacob) He** and I am a first-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and Professor [**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). I received my B.A. in Philosophy from UCLA and my M.A. in International Affairs from the University of Hong Kong (HKU).
 
 My research focuses on **AI intimacy, loneliness, social isolation, and aging**. I am particularly interested in two related areas: first, how Social AI (SAI), including social robots such as PARO, can support the well-being of older adults and alleviate loneliness; and second, how people develop intimate and romantic relationships with AI companions, such as Replika.
 
@@ -17,6 +17,6 @@ I have joined **HKBU's Department of Sociology** as a PhD student in August 2025
 
 News
 ======
-* [2026/07] [Sun Yat-sen University](https://mp.weixin.qq.com/s/uZgovPEVIdy0LijFjtmMEg) I was selected to participate in the AI Anthropology Workshop (AI人类学研修班) at Sun Yat-sen University, led by [**Prof. Jin Jun (景军)**](https://www.soc.tsinghua.edu.cn/info/1231/2065.htm). Looking forward to learning from and connecting with scholars working on AI and anthropology! 🎉
-* [2026/03] [Symposium](https://dearhub.hkbu.edu.hk/dear/index.php/events/#finale) I am excited to join **From Digital Ethics to Resilience: Navigating Responsibility and AI Literacy in Higher Education and Beyond** as a student panelist for a roundtable discussion led by Prof. Mark Pegrum 🎉! See y'all at the roundtable 😄
+* [2026/07] I joined the [AI Anthropology Workshop (AI人类学研修班) at Sun Yat-sen University](https://mp.weixin.qq.com/s/uZgovPEVIdy0LijFjtmMEg), led by Professor[**Jin Jun (景军)**](https://www.soc.tsinghua.edu.cn/info/1231/2065.htm). Looking forward to learning from and connecting with scholars working on AI and anthropology! 🎉
+* [2026/03] [Symposium](https://dearhub.hkbu.edu.hk/dear/index.php/events/#finale) I am excited to join **From Digital Ethics to Resilience: Navigating Responsibility and AI Literacy in Higher Education and Beyond** as a student panelist for a roundtable discussion led by Professor Mark Pegrum 🎉! See y'all at the roundtable 😄
 * 
