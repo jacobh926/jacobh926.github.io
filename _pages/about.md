@@ -9,11 +9,13 @@ redirect_from:
 
 My name is **Yutao (Jacob) He** and I am a second-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and Professor [**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). I received my B.A. in Philosophy from UCLA and my M.A. in International Affairs from HKU.
 
-I have joined **HKBU's Department of Sociology** as a PhD student in August 2025, where I began working with my supervisors on Social AI and loneliness among older adults. My first scoping review paper is currently under review, and I have presented my research at the [HKSA 26th Annual Conference](https://socweb.hkbu.edu.hk/about/news-and-events/hong-kong-sociological-association-26th-annual-conference-on-6-december-2025-at-hkbu.html) and the [International Doctoral Symposium 2026](https://scholars.hkbu.edu.hk/en/publications/elder-ai-companionship-in-chinas-rapidly-aging-society-preliminar-2/). My research focuses on AI intimacy and human–AI relationships, particularly how Social AI (SAI) may shape loneliness, social isolation, and aging. Specifically, I have worked on how SAI, including social robots and AI companions, can support older adults experiencing loneliness, as well as how people develop intimate and romantic relationships with AI companions such as Replika. I am interested in understanding the social, emotional, and relational dimensions of human–AI interaction.
+I have joined **HKBU's Department of Sociology** as a PhD student in August 2025, where I began working with my supervisors on Social AI and loneliness among older adults. My first scoping review paper is currently under review, and I have presented my research at the [HKSA 26th Annual Conference](https://socweb.hkbu.edu.hk/about/news-and-events/hong-kong-sociological-association-26th-annual-conference-on-6-december-2025-at-hkbu.html) and the [International Doctoral Symposium 2026](https://scholars.hkbu.edu.hk/en/publications/elder-ai-companionship-in-chinas-rapidly-aging-society-preliminar-2/). 
+
+My research focuses on AI intimacy and human–AI relationships, particularly how Social AI (SAI) may shape loneliness, social isolation, and aging. Specifically, I have worked on how SAI, including social robots and AI companions, can support older adults experiencing loneliness, as well as how people develop intimate and romantic relationships with AI companions such as Replika. 
 
 Also, please feel free to email me to talk about your projects, PhD and job applications, or just how you have been doing!
 
-<span style="color: #ff3a85;">I’m actively looking forward to connecting with others who share interests in AI intimacy and related topics, and I’m especially open to potential collaborations and coauthorships, feel free to reach out.</span>
+<span style="color: #ff3a85;">I’m actively looking forward to connecting with others who share interests in AI intimacy and related topics, feel free to reach out!</span>
 
 News
 ======
