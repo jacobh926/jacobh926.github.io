@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my latest CV [here](/files/Yixin Wan_resume_202607.pdf) (updated 2026/08).
+Please find my latest CV [here](/files/Yutao He_resume_202607.pdf) (updated 2026/07).
 
 # Education
 * <span style="color:black; font-size:15px"><b><a href="https://socweb.hkbu.edu.hk/" target="_blank"><font color="brown" size="4">Hong Kong Baptist University</font></a></b></span><br/>
