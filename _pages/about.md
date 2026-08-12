@@ -19,6 +19,6 @@ News
 ======
 * [2026/07] 📢 ⭐️ I joined the Sun Yat-sen University's [AI Anthropology Workshop](https://mp.weixin.qq.com/s/uZgovPEVIdy0LijFjtmMEg), led by Professor [Jun Jing](https://www.soc.tsinghua.edu.cn/info/1231/2065.htm). Looking forward to learning from and connecting with scholars working as pioneers on AI field! 😊
 * [2026/07] ⭐️ I attended the QualiTaTi Summer School 2026: Qualitative Research in the AI Era, taught online by Professor [Shubin Yu](https://shubinyu.com/) from July 9 to 13, and received an A grade!
-* [2026/05] I am humbled to be invited by 
+* [2026/05] I am humbled to be invited by the Dean of Arts and Social Sciences at HKBU, Professor [Daniel W. L. Lai](https://scholars.hkbu.edu.hk/en/persons/DANIELLAI/), and Professor [Kaxton Y. K. Siu](https://socweb.hkbu.edu.hk/people/academic-staff/siu-kaxton.html) to serve as the Emcee for the [AESC HK Green Energy Week Forum](https://www.thestandard.com.hk/news/article/332642/HKBU-hosts-major-energy-forum-to-spearhead-Hong-Kongs-hydrogen-and-low-carbon-future) at the Hong Kong Convention and Exhibition Centre. Grateful for the opportunity and all the support!
 * [2026/03] I represented HKBU to join a round table discussion: [From Digital Ethics to Resilience: Navigating Responsibility and AI Literacy in Higher Education and Beyond](https://dearhub.hkbu.edu.hk/dear/index.php/events/#finale) led by Professor [Mark Pegrum](https://markpegrum.com/) 🎉! See you at the roundtable 😄
 * 
