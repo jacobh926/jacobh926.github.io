@@ -1,19 +1,19 @@
 ---
 title: "The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention"
 collection: publications
-Authors: '<b>Yixin Wan</b>, Di Wu, Haoran Wang, Kai-Wei Chang'
-date: 10/2024
-venue: 'EMNLP'
+Authors: '<b>Yutao He</b>, Roger Patulny, Dahye Kim'
+date: 07/2026
+venue: ''
 excerpt: ''
 presentationurl: ''
-paperurl: 'https://arxiv.org/abs/2407.00377'
-topic: 'fairness'
-selected: 'true'
-permalink: /publication/2024-factuality
+paperurl: ''
+topic: 'SAI'
+selected: ''
+permalink:
 ---
 ---
 <a href='https://arxiv.org/abs/2407.00377.pdf' target="_blank">[Download Paper]</a>
 
 <p align="justify">
-Prompt-based "diversity interventions" are commonly adopted to improve the diversity of Text-to-Image (T2I) models depicting individuals with various racial or gender traits. However, will this strategy result in nonfactual demographic distribution, especially when generating real historical figures. In this work, we propose DemOgraphic FActualIty Representation (DoFaiR), a benchmark to systematically quantify the trade-off between using diversity interventions and preserving demographic factuality in T2I models. DoFaiR consists of 756 meticulously fact-checked test instances to reveal the factuality tax of various diversity prompts through an automated evidence-supported evaluation pipeline. Experiments on DoFaiR unveil that diversity-oriented instructions increase the number of different gender and racial groups in DALLE-3's generations at the cost of historically inaccurate demographic distributions. To resolve this issue, we propose Fact-Augmented Intervention (FAI), which instructs a Large Language Model (LLM) to reflect on verbalized or retrieved factual information about gender and racial compositions of generation subjects in history, and incorporate it into the generation context of T2I models. By orienting model generations using the reflected historical truths, FAI significantly improves the demographic factuality under diversity interventions while preserving diversity.
+Rapid global population aging has intensified what is increasingly described as a loneliness crisis. Insufficient social support among many older adults, compounded by caregiver shortages, has prompted growing interest in ‘Social’ AI (SAI) as a technological response. Yet it remains unclear whether using SAI to manage loneliness also provokes a broader range of emotions and how these shape its effectiveness. This scoping review addresses three questions: Do different types of loneliness interact differently with SAI use? What emotions beyond loneliness emerge during initial engagement? What emotions complicate longer-term use? We reviewed 16 studies and identified eight themes: (1) negative emotions and scepticism; (2) positive emotions and SAI as a safe haven; (3) emotional work; (4) facilitation of social interaction; (5) personalization; (6) demographic and structural influences; (7) under- and over-attachment; and (8) concerns over privacy and control. This review contributes in three ways. First, it highlights how social, emotional, and existential loneliness remain under-theorized in SAI research. Second, it shows that emotions such as comfort, attachment, ambivalence, and unease are shaped by users’ social contexts and influence engagement. Third, it demonstrates that managing loneliness through SAI is itself emotionally complex, potentially fostering connection while deepening existential and collective loneliness. These findings offer nuanced implications for practitioners and policymakers.
 </p>
