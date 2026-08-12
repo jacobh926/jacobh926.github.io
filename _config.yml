@@ -25,12 +25,12 @@ author:
   avatar           : "jacob_photo.png"
   name             : "Yutao (Jacob) He"
   pronouns         : "he/him"  
-  bio              : "PhD Student in Sociology at Hong Kong Baptist University, advised by Professor Roger Patulny and Dahye Kim. My research focuses on AI intimacy, Loneliness, and Aging."
+  bio              : "PhD Student in Sociology at Hong Kong Baptist University, advised by Professor Roger Patulny and Dahye Kim. My research focuses on Loneliness, AI intimacy, Aging, and Social Isolation."
   location         : "Hong Kong"
   employer         : "HKBU"
   uri              : # URL
   email            : "25481509@life.hkbu.edu.hk" 
-  orcid            : "https://orcid.org/0009-0008-7975-5997"
+  orcid            : # "https://orcid.org/0009-0008-7975-5997"
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : jacobheucla
+  github           : jacobh926
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jacob-he-ucla/"
+  linkedin         : # "https://www.linkedin.com/in/jacob-he-ucla/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
