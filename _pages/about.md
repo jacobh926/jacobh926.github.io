@@ -11,7 +11,7 @@ My name is **Yutao (Jacob) He** and I am a second-year PhD student in Sociology 
 
 I have joined **HKBU's Department of Sociology** as a PhD student in August 2025, where I began working with my supervisors on Social AI and loneliness among older adults. My first scoping review paper is currently under review, and I have presented my research at the [HKSA 26th Annual Conference](https://socweb.hkbu.edu.hk/about/news-and-events/hong-kong-sociological-association-26th-annual-conference-on-6-december-2025-at-hkbu.html) and the [International Doctoral Symposium 2026](https://scholars.hkbu.edu.hk/en/publications/elder-ai-companionship-in-chinas-rapidly-aging-society-preliminar-2/).  
 
-<span style="color: #ff3a85;">I am actively looking for potential coauthors who share the same interests in AI Intimacy and Social AI applications for older adults. Feel free to reach out!</span>
+<span style="color: #ff3a85;">I’m always happy to connect with others who share an interest in AI intimacy and related topics, and I’m especially open to potential collaborations and coauthorships. Also, if you’re applying for PhD programs or jobs, or simply want to catch up and share how you’ve been doing, feel free to reach out!</span>
 
 News
 ======
