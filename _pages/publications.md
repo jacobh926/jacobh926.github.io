@@ -13,7 +13,7 @@ You can find all of my articles on <a href="https://scholar.google.com/citations
 
 ---
 
-## 🔍 Factuality and Faithfulness
+## 🔍 Social AI for Older Adults
 
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
@@ -31,7 +31,7 @@ You can find all of my articles on <a href="https://scholar.google.com/citations
 {% endfor %}
 
 
-## 🔍 Fairness
+## 🔍 Masculinity
 
 {% assign publicationsByYear = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in publicationsByYear reversed %}
