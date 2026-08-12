@@ -7,15 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Yutao (Jacob) He** and I am a second-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Vincent Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and Professor [**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). I received my B.A. in Philosophy from UCLA and my M.A. in International Affairs from HKU.
+My name is **Yutao (Jacob) He** and I am a second-year PhD student in Sociology at HKBU. I am fortunate to be advised by Professor [**Roger Vincent Patulny**](https://socweb.hkbu.edu.hk/people/academic-staff/patulny-roger.html/) and Professor [**Dahye Kim**](https://socweb.hkbu.edu.hk/people/academic-staff/kim-dahye.html). I received my B.A. in Philosophy from UCLA and my M.A. in International Affairs from HKU. My research focuses on AI intimacy and human–AI relationships, particularly how Social AI (SAI) may shape loneliness, social isolation, and aging. Specifically, I have worked on how SAI, including social robots and AI companions, can support older adults experiencing loneliness, as well as how people develop intimate and romantic relationships with AI companions such as Replika. 
 
 I have joined **HKBU's Department of Sociology** as a PhD student in August 2025, where I began working with my supervisors on Social AI and loneliness among older adults. My first scoping review paper is currently under review, and I have presented my research at the [HKSA 26th Annual Conference](https://socweb.hkbu.edu.hk/about/news-and-events/hong-kong-sociological-association-26th-annual-conference-on-6-december-2025-at-hkbu.html) and the [International Doctoral Symposium 2026](https://scholars.hkbu.edu.hk/en/publications/elder-ai-companionship-in-chinas-rapidly-aging-society-preliminar-2/). 
 
-My research focuses on AI intimacy and human–AI relationships, particularly how Social AI (SAI) may shape loneliness, social isolation, and aging. Specifically, I have worked on how SAI, including social robots and AI companions, can support older adults experiencing loneliness, as well as how people develop intimate and romantic relationships with AI companions such as Replika. 
-
-Also, please feel free to email me to talk about your projects, PhD and job applications, or just how you have been doing!
-
 <span style="color: #ff3a85;">I’m actively looking forward to connecting with others who share interests in AI intimacy and related topics, feel free to reach out!</span>
+
 
 News
 ======
@@ -23,4 +20,6 @@ News
 * [2026/07] ⭐️ I attended the QualiTaTi Summer School 2026: Qualitative Research in the AI Era, taught online by Professor [Shubin Yu](https://shubinyu.com/) from July 9 to 13, and received an A grade!
 * [2026/05] I am humbled to be invited by the Dean of Arts and Social Sciences at HKBU, Professor [Daniel W. L. Lai](https://scholars.hkbu.edu.hk/en/persons/DANIELLAI/), and Professor [Kaxton Y. K. Siu](https://socweb.hkbu.edu.hk/people/academic-staff/siu-kaxton.html) to serve as the Emcee for the [AESC HK Green Energy Week Forum](https://www.thestandard.com.hk/news/article/332642/HKBU-hosts-major-energy-forum-to-spearhead-Hong-Kongs-hydrogen-and-low-carbon-future) at the Hong Kong Convention and Exhibition Centre. Grateful for the opportunity and all the support!
 * [2026/03] I represented HKBU to join a round table discussion: [From Digital Ethics to Resilience: Navigating Responsibility and AI Literacy in Higher Education and Beyond](https://dearhub.hkbu.edu.hk/dear/index.php/events/#finale) led by Professor [Mark Pegrum](https://markpegrum.com/) 🎉! See you at the roundtable 😄
-* 
+* [2026/03] Presented my research project and served as Emcee at the 4th International Doctoral Symposium 2026: Global Perspectives on Social Problems, Policy, and Practice.
+* [2026/01] Started independently leading tutorial sessions for the first time for SOCI 2005: Qualitative Methods of Social Research.
+* [2025/12] I shared my work-in-progress scoping review at the Hong Kong Sociological Association (HKSA) 26th Annual Conference, together with my supervisor, Roger Patulny.
