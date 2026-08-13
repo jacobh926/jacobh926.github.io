@@ -1,9 +1,9 @@
 ---
-title: "Sequence-Level Certainty Reduces Hallucination In Knowledge-Grounded Dialogue Generation"
+title: "I would not be a burden on a robot.” A scoping review of older adults' ‘lonely-emotional complexes’ when using Social AI (SAI)"
 collection: publications
-Authors: '<b>Yixin Wan</b>, Fanyou Wu, Weijie Xu, Srinivasan H. Sengamedu'
-date: 10/2023
-venue: 'ICLR SeT LLM'
+Authors: '<b>Yutao He</b>, Roger Patulny, Dahye Kim'
+date: 07/2026
+venue: 'Nature'
 excerpt: ''
 presentationurl: ''
 paperurl: 'https://arxiv.org/abs/2310.18794'
