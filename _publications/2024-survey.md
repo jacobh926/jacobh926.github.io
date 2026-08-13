@@ -1,9 +1,9 @@
 ---
-title: "Understanding Men’s ‘Lonely emotion complexes’ – a scoping review"
+title: "Understanding Men’s ‘Lonely Emotion Complexes’: A Scoping Review"
 collection: publications
 Authors: '<b>Yutao He</b>, Roger Patulny, Jiashan Han, Samuel Cabbuag, John Ratcliffe'
 date: 08/2026
-venue: 'Arxiv'
+venue: 'Emotions and Society'
 excerpt: ''
 presentationurl: ''
 paperurl: 'hhttps://arxiv.org/abs/2404.01030'
