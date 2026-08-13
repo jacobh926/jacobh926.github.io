@@ -1,5 +1,5 @@
 ---
-title: "'Kelly is a Warm Person, Joseph is a Role Model': Gender Biases in LLM-Generated Reference Letters"
+title: "SAI"
 collection: publications
 Authors: '<b>Yixin Wan</b>, George Pu, Jiao Sun, Aparna Garimella, Kai-Wei Chang, Nanyun Peng'
 date: 10/2023
