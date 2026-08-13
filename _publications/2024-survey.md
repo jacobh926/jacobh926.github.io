@@ -1,5 +1,5 @@
 ---
-title: "Understanding Men’s ‘Lonely Emotion Complexes’: A Scoping Review"
+title: "What Does Loneliness Feel Like for Men Today? A Scoping Review of Contemporary Masculinities and Lonely-Emotion Complexes"
 collection: publications
 Authors: '<b>Yutao He</b>, Roger Patulny, Jiashan Han, Samuel Cabbuag, John Ratcliffe'
 date: 08/2026
